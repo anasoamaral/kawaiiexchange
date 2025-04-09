@@ -14,7 +14,7 @@
 ## Initialization
 To start the server at localhost:300 follow these steps:
 
-1. At the terminal, install NPM using the command `npm i`
+1. At the terminal, install npm using the command `npm i`
 2. Start the server using the command `nodemon index.js`
 
 [NES.css]: <https://nostalgic-css.github.io/NES.css/>
