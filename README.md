@@ -12,10 +12,11 @@
 <img src="https://github.com/user-attachments/assets/57d869a8-b0de-42b8-a4e6-52f0df469809" width=50% height=50%>
 
 ## Initialization
-To start the server at localhost:300 follow these steps:
+To start the server at localhost:3000 follow these steps:
 
 1. At the terminal, install npm using the command `npm i`
 2. Start the server using the command `nodemon index.js`
+3. Point the browser to localhost:3000 and start using the calculator
 
 [NES.css]: <https://nostalgic-css.github.io/NES.css/>
 [ExchangeRate-API]: <https://www.exchangerate-api.com/>
