@@ -1,5 +1,5 @@
 ## About
-  🎀Kawaii exchange🎀 is a web application that consists of a ✨girly✨ exchange calculator. Technologies used are embedded JavaScript, Express.JS, Node.JS, axios and the body-parser middleware. 
+  🎀Kawaii exchange🎀 is a web application that consists of a ✨girly✨ exchange calculator. Technologies used are embedded JavaScript (EJS), Express.JS, Node.JS, axios and the body-parser middleware. 
   
   For some parts of the CSS, the [NES.css] framework is used to give it a retro style. 
   
